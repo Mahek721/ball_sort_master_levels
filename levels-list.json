@@ -1,0 +1,156 @@
+{
+    "total_levels": 30,
+    "last_updated": "2026-04-28 14:11:14",
+    "levels": [
+        {
+            "id": 1,
+            "path": "generate_levels/levels/level-1.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 2,
+            "path": "generate_levels/levels/level-2.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 3,
+            "path": "generate_levels/levels/level-3.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 4,
+            "path": "generate_levels/levels/level-4.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 5,
+            "path": "generate_levels/levels/level-5.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 6,
+            "path": "generate_levels/levels/level-6.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 7,
+            "path": "generate_levels/levels/level-7.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 8,
+            "path": "generate_levels/levels/level-8.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 9,
+            "path": "generate_levels/levels/level-9.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 10,
+            "path": "generate_levels/levels/level-10.json",
+            "difficulty": "Easy"
+        },
+        {
+            "id": 11,
+            "path": "generate_levels/levels/level-11.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 12,
+            "path": "generate_levels/levels/level-12.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 13,
+            "path": "generate_levels/levels/level-13.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 14,
+            "path": "generate_levels/levels/level-14.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 15,
+            "path": "generate_levels/levels/level-15.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 16,
+            "path": "generate_levels/levels/level-16.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 17,
+            "path": "generate_levels/levels/level-17.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 18,
+            "path": "generate_levels/levels/level-18.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 19,
+            "path": "generate_levels/levels/level-19.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 20,
+            "path": "generate_levels/levels/level-20.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 21,
+            "path": "generate_levels/levels/level-21.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 22,
+            "path": "generate_levels/levels/level-22.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 23,
+            "path": "generate_levels/levels/level-23.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 24,
+            "path": "generate_levels/levels/level-24.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 25,
+            "path": "generate_levels/levels/level-25.json",
+            "difficulty": "Medium"
+        },
+        {
+            "id": 26,
+            "path": "generate_levels/levels/level-26.json",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 27,
+            "path": "generate_levels/levels/level-27.json",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 28,
+            "path": "generate_levels/levels/level-28.json",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 29,
+            "path": "generate_levels/levels/level-29.json",
+            "difficulty": "Hard"
+        },
+        {
+            "id": 30,
+            "path": "generate_levels/levels/level-30.json",
+            "difficulty": "Hard"
+        }
+    ]
+}
