@@ -124,18 +124,19 @@ def main():
     start_level = get_last_level_number() + 1
     end_level = start_level + BATCH_SIZE - 1
     
-    if start_level > 1:
-        print(f"Current last level: {start_level - 1}")
+    print(f"Current last level: {start_level - 1}")
+    print(f"Generating levels from {start_level} to {end_level}...")
     
-    # Only generate if called directly or if list is missing
-    # But usually we want to update the list even if no new levels are generated
+    for i in range(start_level, end_level + 1):
+        level_data = generate_level(i)
+        filename = f"level-{i}.json"
+        with open(os.path.join(LEVELS_DIR, filename), 'w') as f:
+            json.dump(level_data, f, indent=4)
+            
+    print(f"Success! {BATCH_SIZE} new levels added to {LEVELS_DIR}")
     
-    # Check if we should generate new levels (optional, but keep it for convenience)
-    # For now, let's just make sure we can trigger generation if needed.
-    # If the user just wants the list, they can run simple update.
-    
-    # For the first time, let's update everything.
     update_levels_list()
+
 
 if __name__ == "__main__":
     main()
